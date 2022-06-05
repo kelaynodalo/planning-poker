@@ -1,0 +1,20 @@
+{
+  "short_name": "React App",
+  "name": "A React App Typescript Project",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#C3E0E5",
+  "background_color": "#274472"
+}
