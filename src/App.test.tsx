@@ -2,8 +2,8 @@ import React from "react";
 import { render, screen } from "@testing-library/react";
 import App from "./App";
 
-test("renders learn react link", () => {
+test("Should display Join a Planning Session", () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const joinHeader = screen.getByText(/Join a Planning Session/i);
+  expect(joinHeader).toBeInTheDocument();
 });

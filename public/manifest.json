@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "A React App Typescript Project",
+  "short_name": "Planning Poker",
+  "name": "Planning Poker for planning and estimation ceremonies",
   "icons": [
     {
       "src": "favicon.png",

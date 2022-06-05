@@ -22,9 +22,6 @@
     "lint-and-fix": "eslint . --ext .ts --fix",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\""
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -61,6 +58,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.30.0",
     "eslint-plugin-react-hooks": "^4.5.0",
+    "eslint-plugin-tailwindcss": "^3.5.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.0",
     "postcss": "^8.4.14",
